@@ -1,0 +1,12 @@
+.button {
+  @apply flex justify-around items-center text-[#422C1D] bg-[#fbc960]
+  text-xl py-[0.75rem] px-[3rem] rounded-[25px];
+}
+
+.icon {
+  @apply text-[#422C1D] text-xl mr-[0.5rem];
+}
+
+.badge {
+  @apply bg-[#b94517] text-white px-[1rem] py-[0.5rem] ml-[1rem] font-bold rounded-[25px]
+}
