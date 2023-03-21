@@ -1,0 +1,12 @@
+.summary {
+  @apply text-center max-w-[45rem] w-[90%] lg:w-[50%] mx-auto mt-[-9rem] lg:mt-[-7rem] relative
+    bg-[#422c1d] text-white rounded-[14px] p-4 shadow-2xl
+}
+
+.summary h2 {
+  @apply text-lg lg:text-2xl font-bold mb-2
+}
+
+.summary p {
+  @apply text-sm lg:text-base mb-3;
+}

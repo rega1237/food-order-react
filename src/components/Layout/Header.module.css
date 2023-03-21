@@ -4,7 +4,7 @@
 }
 
 .header_image {
-  @apply w-full  h-[200px] lg:h-[25rem] z-0 overflow-hidden
+  @apply w-full  h-[350px] lg:h-[25rem] z-0 overflow-hidden
 }
 
 .header_image img {

@@ -1,0 +1,3 @@
+.pizzas {
+  @apply max-w-[60rem] w-[90%] my-[2rem] mx-auto;
+}
